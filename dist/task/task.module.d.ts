@@ -1,2 +1,1 @@
-export declare class TaskModule {
-}
+export declare class TaskModule {}
